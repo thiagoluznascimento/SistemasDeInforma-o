@@ -1,0 +1,7 @@
+ctrl p 
+init
+ 
+<? phpinfo();	
+
+	
+ ?>
